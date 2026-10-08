@@ -1,0 +1,13 @@
+import streamlit as st
+
+st.set_page_config(
+    page_title="Finance Analytics",
+    page_icon="💰",
+    layout="wide"
+)
+
+st.title("💰 AI-Powered Personal Finance & Financial Analytics")
+
+st.write("Welcome to your Finance Analytics Project!")
+
+st.success("Project setup completed successfully.")
